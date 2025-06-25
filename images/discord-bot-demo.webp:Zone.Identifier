@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/04e6d5fd-67eb-4703-af81-67d32a4d140c/discord-bot-demo.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250605%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250605T163728Z&X-Amz-Expires=86400&X-Amz-Signature=e4f646d6eae15ad4b653d2b219437d3fb2ee7c2bf039faf41b59851d776a4ba0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22discord-bot-demo.webp%22&response-content-type=image%2Fwebp&x-id=GetObject
