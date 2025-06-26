@@ -168,17 +168,15 @@ a:hover {
   text-decoration: underline;
 }
 
-/* ===============================
-   fieldset
-================================== */
-fieldset {
-  width: 50%;
-}
-
 /* ==============================
     Forms
 ================================= */
 
 form input {
   margin-bottom: 20px;
+}
+
+textarea,
+fieldset {
+  width: 50%;
 }
